@@ -11,3 +11,39 @@ The inputs for your algorithm appear in the following lines:
 •	LINE 3 - contains a sequence of lower case English alphabets which signify the NAME of the fruit juice that is actually on the cupboard (you can have multiple bottles of the same juice and in any order)
 •	LINE 4 - contains a positive integer which specifies the exact calorie intake requirement of your friend.
 
+
+#### Input Type is File
+````Select Input Type
+1 for File
+2 for User Input
+1
+***********************************
+Friend No 1 Juice content:-
+SORRY, YOU JUST HAVE WATER
+Friend No 2 Juice content:-
+{3,  4}
+Fruit Combination : ab
+Friend No 3 Juice content:-
+{5,  5,  5}
+Fruit Combination : aaa
+
+````
+#### Input Type is User Input
+````Select Input Type
+1 for File
+2 for User Input
+2
+Enter No of Friends
+1
+Enter No of unique fruit juices 
+2
+Enter calorie content each unique fruit juices separated by comma
+3,4
+Enter sequence for fruit juice in cupboard
+baba
+***********************************
+Friend No 1 Juice content:-
+7
+{3,  4}
+Fruit Combination : ab
+````
